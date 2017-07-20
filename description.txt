@@ -1,0 +1,2 @@
+The overall approach used was focused on information gain derived by calculating entropy at terminal nodes. The algorithm recursively branches on nodes in order to maximize homogeneity of the results within the stated bounds of depth and size. There was a comparison done with Gini coefficient calculation but higher accuracy was obtained by using entropy (81.60%).
+The OOB estimate was 0.184.
